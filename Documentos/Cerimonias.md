@@ -13,7 +13,7 @@ As cerimônias do Scrum são reuniões estruturadas que ajudam o time a:
      ┌─────────────────────┐
      │                     │
      │   Sprint Planning   │
-     │   "O que faremos?" │
+     │   "O que faremos?"  │
      │                     │
      └─────────┬───────────┘
                │
@@ -21,7 +21,7 @@ As cerimônias do Scrum são reuniões estruturadas que ajudam o time a:
      ┌─────────────────────┐
      │                     │
      │     Daily Scrum     │
-     │   "Como estamos?"  │
+     │   "Como estamos?"   │
      │                     │
      └─────────┬───────────┘
                │
