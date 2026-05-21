@@ -15,7 +15,7 @@ Este repositório foi criado com o objetivo de centralizar materiais, referênci
 ## 📂 Estrutura do Repositório (sugerida)
 
 - `README.md` → Informações gerais sobre o repositório  
-- `guias/` → Guias e tutoriais sobre Scrum  
+- `Documentos/` → Guias e tutoriais sobre Scrum  
 - `diagramas/` → Diagramas, fluxos e representações visuais  
 - `exemplos/` → Exemplos de aplicação prática do Scrum  
 
