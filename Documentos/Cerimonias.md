@@ -1,4 +1,47 @@
+# O que são Cerimônias do Scrum?
 
+As cerimônias do Scrum são reuniões estruturadas que ajudam o time a:
+
+- Planejar entregas
+- Acompanhar progresso
+- Validar resultados
+- Melhorar continuamente
+
+---
+
+# 🔄 Ciclo do Scrum (Visual ASCII)
+     ┌─────────────────────┐
+     │                     │
+     │   Sprint Planning   │
+     │   "O que faremos?" │
+     │                     │
+     └─────────┬───────────┘
+               │
+               ▼
+     ┌─────────────────────┐
+     │                     │
+     │     Daily Scrum     │
+     │   "Como estamos?"  │
+     │                     │
+     └─────────┬───────────┘
+               │
+               ▼
+     ┌─────────────────────┐
+     │                     │
+     │   Sprint Review     │
+     │  "O que entregamos?"│
+     │                     │
+     └─────────┬───────────┘
+               │
+               ▼
+     ┌─────────────────────┐
+     │                     │
+     │ Retrospective       │
+     │ "Como melhorar?"    │
+     │                     │
+     └─────────┬───────────┘
+               │
+               └─────────→ (volta para Sprint Planning)
 > Cada bloco representa uma cerimônia e o fluxo mostra a repetição contínua do ciclo Scrum.
 
 ---
