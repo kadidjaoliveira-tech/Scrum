@@ -1,10 +1,10 @@
-# 🚀 Cerimônias do Scrum – Guia Rápido
+# Cerimônias do Scrum – Guia Rápido
 
 Este guia apresenta uma forma simples e prática de entender as principais cerimônias do Scrum.
 
 ---
 
-# 📌 O que são Cerimônias do Scrum?
+# O que são Cerimônias do Scrum?
 
 As cerimônias do Scrum são reuniões estruturadas que ajudam o time a:
 
@@ -172,7 +172,7 @@ Resultado funcional entregue ao final da sprint.
 
 ---
 
-# 📌 Conclusão
+# Conclusão
 
 O Scrum ajuda equipes a trabalharem de forma organizada, iterativa e colaborativa, promovendo entregas contínuas de valor e melhoria constante do processo.
 
@@ -180,8 +180,8 @@ O Scrum ajuda equipes a trabalharem de forma organizada, iterativa e colaborativ
 
 # 📖 Referências
 
-- Scrum Guide
-- Agile Manifesto
+- Scrum Guide <https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Portuguese-European.pdf>
+- Agile Manifesto <https://agilemanifesto.org/iso/ptbr/manifesto.html>
 
 ---
 
