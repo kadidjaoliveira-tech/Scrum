@@ -9,7 +9,7 @@ As cerimônias do Scrum são reuniões estruturadas que ajudam o time a:
 
 ---
 
-# 🔄 Ciclo do Scrum (Visual ASCII)
+# 🔄 Ciclo do Scrum ([Visual ASCII]) (https://en.wikipedia.org/wiki/ASCII_art)
      ┌─────────────────────┐
      │                     │
      │   Sprint Planning   │
